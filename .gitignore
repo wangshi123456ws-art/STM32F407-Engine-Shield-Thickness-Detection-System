@@ -1,0 +1,34 @@
+# Build outputs
+OBJ/
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+*.dep
+
+# Keil user-local files
+*.uvguix.*
+*.uvgui*
+*.uvopt
+*.uvoptx
+*.bak
+JLinkSettings.ini
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
